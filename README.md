@@ -1,0 +1,2 @@
+
+Dataset "Customer Personality Analysis" merupakan kumpulan data yang mencakup informasi tentang perilaku dan preferensi pelanggan. Dataset ini terdiri dari beberapa atribut, termasuk jenis kelamin, usia, pendapatan, tingkat pendidikan, pekerjaan, dan sejumlah variabel lainnya yang dapat digunakan untuk menganalisis pola dan tren dalam perilaku konsumen. Analisis dataset ini dapat bantu dalam memahami profil pelanggan, mengidentifikasi segmen pasar potensial, serta merancang strategi pemasaran yang lebih tepat dan efektif untuk memenuhi kebutuhan dan keinginan pelanggan.
